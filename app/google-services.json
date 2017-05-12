@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300799059212",
+    "firebase_url": "https://college-app-722c2.firebaseio.com",
+    "project_id": "college-app-722c2",
+    "storage_bucket": "college-app-722c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300799059212:android:3d8b91a9d66fc82a",
+        "android_client_info": {
+          "package_name": "com.chat.alokraj.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300799059212-b9o340vin19iekmgaa7gde8ifrqb8s8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.alokraj.firebasechat",
+            "certificate_hash": "8133654c600b9381a82f9c8c43be67c459087e3a"
+          }
+        },
+        {
+          "client_id": "300799059212-fju51nmfderqorlqjp0tmskvrg1gopak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5wj_nmKQEGq5snAUUnC6Sh2ihoESCESw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300799059212-fju51nmfderqorlqjp0tmskvrg1gopak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
